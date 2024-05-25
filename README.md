@@ -2,7 +2,7 @@ This is the Delphi interface of my unofficial fork of [Audiere](https://github.c
 
 **Audiere.pas**
 
-Load audiere.dll dynamically (default) or link it to executables (remote DYNAMIC definition).
+Load audiere.dll dynamically (default) or link it to executables (remove DYNAMIC definition).
 
 **AudiereEmbedded.pas**
 
